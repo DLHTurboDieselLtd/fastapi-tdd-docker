@@ -1,0 +1,6 @@
+env
+.dockerignore
+Dockerfile
+Dockerfile.prod
+.coverage
+/project/htmlcov/index.html
